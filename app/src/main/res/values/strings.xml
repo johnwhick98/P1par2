@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">P1par2</string>
+    <string name="titulo">Manejo de radios de Seleccion</string>
+    <string name="carrera">Selecciona tu carrera</string>
+    <string name="primera">ISC</string>
+    <string name="Segunda">TICS</string>
+    <string name="tercera">Ing Ambiental</string>
+    <string name="cuarta">Lic Gastronomia</string>
+    <string name="mensaje">Mensaje</string>
+    <string name="uso">Uso de internet</string>
+    <string name="cbcasa">Casa</string>
+    <string name="cbescuela">Escuela</string>
+    <string name="cbTrabajo">Trabajo</string>
+</resources>
